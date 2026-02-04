@@ -3,7 +3,7 @@ import Container from './Container'
 
 const Copyright = () => {
   return (
-    <div className='py-11 bg-[#008641]'>
+    <div className='py-11 bg-[#008641] mt-34'>
         <Container>
             <div className="text-center">
             <h2 className='font-ROBT font-semibold text-[18px] text-[#ffff] '>
