@@ -5,15 +5,15 @@ const Navbar = () => {
   return (
     <div className='py-11 bg-[#008641]'>
       <Container>
-        <div className="">
-          <ul className='flex justify-between'>
+        <div className="items-center">
+          <ul className='flex justify-between items-center'>
             <li className='font-POPIN font-bold text-[22px] text-[#ffff] cursor-pointer'>Home</li>
             <li className='font-POPIN font-bold text-[22px] text-[#ffff] cursor-pointer'>About</li>
             <li className='font-POPIN font-bold text-[22px] text-[#ffff] cursor-pointer'>Faculty</li>
             <li className='font-POPIN font-bold text-[22px] text-[#ffff] cursor-pointer'>Admission</li>
             <li className='font-POPIN font-bold text-[22px] text-[#ffff] cursor-pointer'>Gallery</li>
             <li className='font-POPIN font-bold text-[22px] text-[#ffff] cursor-pointer'>Notice</li>
-            <li className='font-POPIN font-bold text-[22px] text-[#ffff] cursor-pointer'>contact us</li>
+            <li className='font-POPIN font-bold text-[22px] text-[#ffff] cursor-pointer py-2 px-5 bg-amber-400'>contact us</li>
           </ul>
         </div>
       </Container>
