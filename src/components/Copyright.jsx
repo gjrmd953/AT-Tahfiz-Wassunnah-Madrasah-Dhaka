@@ -2,7 +2,9 @@ import React from 'react'
 
 const Copyright = () => {
   return (
-    <div>Copyright</div>
+    <div className='bg-amber-500'>
+        <h2>hello</h2>
+    </div>
   )
 }
 
