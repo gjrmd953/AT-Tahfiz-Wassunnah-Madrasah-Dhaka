@@ -1,9 +1,12 @@
 import React from 'react'
+import Container from './Container'
 
 const Banner = () => {
   return (
     <div>
-        <h2>banner</h2>
+        <Container>
+            <h2>banner</h2>
+        </Container>
     </div>
   )
 }
