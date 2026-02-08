@@ -11,7 +11,7 @@ const Name = () => {
                     <div className="w-1/7">logo</div>
                     <div className="w-5/7">
                         <div className="text-center">
-                            <h1 className='font-POPIN font-bold text-[40px] uppercase text-red-400'>
+                            <h1 className='font-POPIN font-bold text-[40px] text-red-400'>
                                 At-Tahfiz Wassunnah Madrasah Dhaka
                             </h1>
                         </div>
