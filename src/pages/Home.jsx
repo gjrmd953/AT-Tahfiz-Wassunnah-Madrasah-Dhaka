@@ -5,6 +5,7 @@ import Name from '../components/Name'
 import Banner from '../components/Banner'
 import Footer from '../components/Footer'
 import Gallery from '../components/Gallery'
+import Map from '../components/Map'
 
 const Home = () => {
   return (
@@ -13,6 +14,7 @@ const Home = () => {
    <Navbar/>
    <Banner/>
    <Gallery/>
+   <Map/>
    <Footer/>
    <Copyright/>
    </>
