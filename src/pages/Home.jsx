@@ -4,6 +4,7 @@ import Copyright from '../components/Copyright'
 import Name from '../components/Name'
 import Banner from '../components/Banner'
 import Footer from '../components/Footer'
+import Gallery from '../components/Gallery'
 
 const Home = () => {
   return (
@@ -11,6 +12,7 @@ const Home = () => {
     <Name/>
    <Navbar/>
    <Banner/>
+   <Gallery/>
    <Footer/>
    <Copyright/>
    </>
