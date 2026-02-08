@@ -3,7 +3,7 @@ import Container from './Container'
 
 const Footer = () => {
   return (
-    <div>
+    <div className='py-13 '>
         <Container>
             <h2>
                 Footer
