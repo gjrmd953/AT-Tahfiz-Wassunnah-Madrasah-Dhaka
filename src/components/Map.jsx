@@ -3,7 +3,7 @@ import Container from './Container'
 
 const Map = () => {
   return (
-    <div>
+    <div className='py-13 bg-gray-400'>
         <Container>
             <h2>Map</h2>
         </Container>
