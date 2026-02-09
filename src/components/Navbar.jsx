@@ -4,7 +4,7 @@ import MainImg from "../assets/img.png"
 
 const Navbar = () => {
   return (
-    <div className='py-11 bg bg-[#363938]'>
+    <div className='py-9 bg bg-[#363938]'>
       <Container>
         <div className="items-center">
           <ul className='flex justify-between items-center'>
