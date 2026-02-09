@@ -3,7 +3,7 @@ import Container from './Container'
 
 const Footer = () => {
   return (
-    <div className='py-13 bg-gray-900 '>
+    <div className='bg-gray-900 '>
       <Container>
         <footer className=" text-gray-300">
           <div className="max-w-7xl mx-auto px-6 py-12 grid grid-cols-1 md:grid-cols-4 gap-8">
