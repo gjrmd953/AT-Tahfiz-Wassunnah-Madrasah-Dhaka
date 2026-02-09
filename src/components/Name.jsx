@@ -5,7 +5,7 @@ import { MdEmail } from 'react-icons/md'
 
 const Name = () => {
     return (
-        <div className='py-7 bg-[#9ea6a2]'>
+        <div className='py-5 bg-[#9ea6a2]'>
             <Container>
                 <div className="flex items-center">
                     <div className="w-1/7">logo</div>
