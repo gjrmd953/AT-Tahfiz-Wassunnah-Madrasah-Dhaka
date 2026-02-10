@@ -48,6 +48,11 @@ const Footer = () => {
                 <a href="#" className="hover:text-white">GitHub</a>
                 <a href="#" className="hover:text-white">LinkedIn</a>
               </div>
+              <div className="flex space-x-4 mt-4">
+                <a href="#" className="hover:text-white">Facebook</a>
+                <a href="#" className="hover:text-white">GitHub</a>
+                <a href="#" className="hover:text-white">LinkedIn</a>
+              </div>
             </div>
 
           </div>
