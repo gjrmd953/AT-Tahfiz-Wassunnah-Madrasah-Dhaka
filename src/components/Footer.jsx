@@ -34,7 +34,7 @@ const Footer = () => {
                 <li>Admission</li>
                 <li>Gallery</li>
                 <li>Notice</li>
-                <li>Consultancy</li>
+                <li>Contact</li>
               </ul>
             </div>
 
