@@ -33,7 +33,7 @@ const Footer = () => {
               <ul className="space-y-2">
                 <li>Admission</li>
                 <li>Gallery</li>
-                <li>Frontend Projects</li>
+                <li>Notice</li>
                 <li>Consultancy</li>
               </ul>
             </div>
